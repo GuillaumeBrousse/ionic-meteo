@@ -1,0 +1,22 @@
+page-tabs {
+   	.tabs-md .tab-button{
+      background: rgba(255,255,255,.10);
+      border-bottom-width: 0;
+  	}
+}
+
+
+.ion-ios-customIconMeteo,.ion-md-customIconMeteo{
+	content: url('../img/accueil.svg');
+  	width: 24px;
+  	height: 32px;
+  	padding: 6px 4px 2px;
+  	opacity: 0.9;
+}
+.ion-ios-customIconMap,.ion-md-customIconMap{
+	content: url('../img/map2.svg');
+  	width: 24px;
+  	height: 32px;
+  	padding: 3px 2px 1px;
+  	opacity: 0.9;
+}
